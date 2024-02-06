@@ -8,10 +8,10 @@ command -v nmap > /dev/null 2>&1 || { echo >&2 "nmap not found!, Installing... n
 command -v host > /dev/null 2>&1 || { echo >&2 "host not found!, Installing... dnsutils"; pkg install dnsutils -y 1; }
 clear
 echo $'\33[32;1m'""
-figlet -f smblock "                     Webinfo"
+figlet -f smblock "                     Web-info-Vip"
 echo ""
 
-echo $'\e[36;1m'"                   by Krishna5"$'\e[31;1m'" ["$'\e[37;1m'"Cyberkrishna"$'\e[31;1m'"]"
+echo $'\e[36;1m'"                   by KrishnaGupta"$'\e[31;1m'" ["$'\e[37;1m'"Cyberkrishna"$'\e[31;1m'"]"
 echo
 echo $'\33[31;1m'"--------------------------------------------------------------"
 echo $'\e[37;1m'"Website information gathering tool"$'\e[32;1m'" | "$'\e[37;1m'"Learn more about victim"
