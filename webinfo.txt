@@ -11,7 +11,7 @@ echo $'\33[32;1m'""
 figlet -f smblock "                     Webinfo"
 echo ""
 
-echo $'\e[36;1m'"                   by Anon4You"$'\e[31;1m'" ["$'\e[37;1m'"Alienkrishn"$'\e[31;1m'"]"
+echo $'\e[36;1m'"                   by Krishna5"$'\e[31;1m'" ["$'\e[37;1m'"Cyberkrishna"$'\e[31;1m'"]"
 echo
 echo $'\33[31;1m'"--------------------------------------------------------------"
 echo $'\e[37;1m'"Website information gathering tool"$'\e[32;1m'" | "$'\e[37;1m'"Learn more about victim"
