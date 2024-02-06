@@ -1,5 +1,5 @@
-[![License](https://img.shields.io/badge/Licenese-MIT-blue.svg?longCache=true&style=flat)](https://github.com/GuptajiiHacker/Web-info-Vip/blob/main/LICENSE.md) [![Facebook](https://img.shields.io/badge/Facebook-Id-green)](https://www.facebook.com/profile.php?id=61553140299988&mibextid=ZbWKwL) [![About](https://img.shields.io/badge/About-Me-red)](https://GuptajiHacker.github.io/Web-info-Vip) 
-[![YouTube](https://img.shields.io/badge/You-Tube-yellow)](https://youtube.com/channel/UCeYmxYjmQfvLvFl-kbunGu) 
+[![License](https://img.shields.io/badge/Licenese-MIT-blue.svg?longCache=true&style=flat)](https://github.com/GuptajiiHacker/Web-info-Vip/blob/main/LICENSE.md) [![Facebook](https://img.shields.io/badge/Facebook-Id-green)](https://www.facebook.com/profile.php?id=61553140299988&mibextid=ZbWKwL) [![About](https://img.shields.io/badge/About-Me-red)](https://VipKrishna.myvibe.bio/kc4yb) 
+[![YouTube](https://img.shields.io/badge/You-Tube-yellow)](https://youtube.com/channel/HackerGuptajii) 
 <img src="logo.jpg"/>
 
 # webinfo v1.1
